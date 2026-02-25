@@ -16,6 +16,11 @@ A lightweight desktop translation tool built with Tkinter and deep-translator. I
 Run the app:
 - `python translator_app.py`
 
+## Screenshots
+
+![Translation Interface](docs/screenshot.png)
+*Simple and intuitive translation interface*
+
 ## Technologies Used
 - Python
 - Tkinter
